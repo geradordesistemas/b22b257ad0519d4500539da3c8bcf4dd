@@ -1,0 +1,3 @@
+project_security:
+    resource: "@ApplicationSchemaAlunoBundle/Controller/"
+    type:     annotation
